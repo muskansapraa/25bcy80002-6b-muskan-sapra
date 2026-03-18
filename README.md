@@ -1,4 +1,4 @@
-# 🔐 JWT Banking API Authentication
+ JWT Banking API Authentication
 
 ## 📌 Project Overview
 
@@ -33,21 +33,7 @@ The API allows users to register, log in, and access protected user information 
 
 ---
 
-## 📂 Project Structure
 
-```
-config/
-controllers/
-middleware/
-models/
-routes/
-utils/
-.env
-.gitignore
-index.js
-package.json
-vercel.json
-```
 
 ---
 
